@@ -1,0 +1,9 @@
+cat hat
+cat in hat
+cat in the hat
+-----------
+hat cat
+cathat
+catinthehat
+cat in the phat hat
+cat in the super phat hat
